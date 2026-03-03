@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: Research
+layout: collection
 permalink: /research
 ---
 
