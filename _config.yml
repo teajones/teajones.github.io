@@ -1,10 +1,11 @@
+
 ##############################################
 # START YOUR CONFIGURATION HERE! For more info, visit https://digitalarcplatform.kalanicraig.com/quickstart
 #---------------------
 # THEME. Leave Lines 4-6 alone.
 #---------------------
 remote_theme: kalanicraig/digitalarcplatform@v1.0.1
-repository: 'teajones.github.io' # change this to your repository name
+repository: 'teajones.githib.io' # change this to your repository name
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
@@ -64,7 +65,7 @@ sitedate :
 
 # Other community social media. Leave blank if you don't have these.
 email : "teajelon@gmail.com"
-website : ""
+website : "teajones.com"
 twitter : ""
 github : ""
 facebook : ""
