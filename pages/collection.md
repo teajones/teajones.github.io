@@ -4,4 +4,4 @@ layout: Research
 permalink: /Research
 ---
 
-{{Téa Jones Research Experience}}
+{{Tea Jones Research Experience}}
