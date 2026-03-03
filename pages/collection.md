@@ -1,7 +1,7 @@
 ---
-title: Our Collection
-layout: collection
-permalink: /collection
+title: Research
+layout: Research
+permalink: /Research
 ---
 
-{{site.description}}
+{{Téa Jones Research Experience}}
