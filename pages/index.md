@@ -1,17 +1,8 @@
 ---
-title: IDAH Community Archiving Template
+title: Téa Jones
 layout: homepage
 permalink: /
 ---
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+I am an emerging arts professional with experience in collections management, exhibition planning, and public-facing humanities work. I will graduate in the Spring of 2026 from Elon University with a double major in Art History and Arts Administration and minors in Business Administration, Museum Studies and Public History, and English Literature. My work centers on how art and visual culture tell stories, especially those connected to reproductive justice and material culture. I have hands-on experience cataloging, researching, and curating exhibitions, including developing a campus exhibition of Chinese porcelain for the Elon Art Collections! I am passionate about creating accessible and inclusive arts spaces and researching across disciplines. I’m excited to continue growing in this work!
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
-
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
-
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
