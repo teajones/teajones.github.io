@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: Research
-permalink: /Research
+permalink: /research
 ---
 
 {{Tea Jones Research Experience}}
